@@ -6,3 +6,5 @@ The analysis examines a resturant's P&L statement by looking at:
 - Average change in profit/loss per month
 - The greatest increase in profit month over month
 - The greatest decrease in profit month over month
+
+The Python script also outputs a .txt file with the summary of the analysis. 
